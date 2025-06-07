@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce-site",
+  "version": "1.0.0",
+  "description": "Beginner eCommerce Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.21.2"
+  }
+}
